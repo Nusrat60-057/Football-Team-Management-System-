@@ -1,0 +1,5 @@
+Virgil van Dijk,32,1991-07-08,Netherlands,4,30,20,400,5,0,CB,92,90,88,85,92,91
+Sergio Ramos,37,1986-03-30,Spain,4,100,50,700,15,3,CB,88,85,89,90,88,93
+Trent Alexander-Arnold,26,1998-10-07,England,66,25,80,300,4,0,RB,78,75,80,83,78,81
+Andrew Robertson,30,1994-03-11,Scotland,26,15,75,280,3,0,LB,85,78,82,80,85,85
+João Cancelo,30,1994-05-27,Portugal,7,10,60,250,3,0,LB,80,80,85,83,80,78

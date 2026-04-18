@@ -1,0 +1,3 @@
+Pep Guardiola,53,1971-01-18,Spain,Tactician,20
+Jürgen Klopp,57,1967-06-16,Germany,Motivator,18
+Diego Simeone,54,1970-04-28,Argentina,Defensive Strategist,15
