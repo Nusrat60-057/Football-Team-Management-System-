@@ -311,9 +311,12 @@ For issues or questions regarding the Football Team Management System, refer to:
 
 **Nusrat Rahman Aurna**
 
-Connect with me:
+Connect with the team:
 - 🔗 [GitHub](https://github.com/Nusrat60-057)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nusrat-rahman-aurna-292b16331/)
+
+**Zeba Tahira**
+- 🔗 [GitHub](https://github.com/zebatahira)
 
 ---
 
